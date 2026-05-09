@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Md Hasan
 
-<!--
-**hasancodecraft/hasancodecraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Graduate | Entry-Level Software Developer | Flutter & Dart
 
-Here are some ideas to get you started:
+I am interested in mobile app development and software engineering, with a focus on Flutter, Dart, REST API integration, Firebase, and clean project structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Working with
+
+- Dart
+- Flutter
+- Git
+- GitHub
+- REST API
+- Firebase
+
+### Academic and basic knowledge
+
+- C
+- C++
+- Python
+- Java basics
+- HTML
+- CSS
+- Data Structures and Algorithms
+
+---
+
+## Contact
+
+- GitHub: https://github.com/hasancodecraft
